@@ -436,7 +436,7 @@ p {
 }
 
 .experience .experience-card .card-years {
-    color: var(--blue);
+    color: #FFD700;
     font-weight: 500;
     font-size: 18px;
     line-height: 150%;
