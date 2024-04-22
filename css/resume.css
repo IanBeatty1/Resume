@@ -284,6 +284,14 @@ p {
 
     margin-bottom: 30px;
 }
+.about .formal-education {
+    list-style: none;
+
+}
+
+.about .formal-education li {
+    margin: 15px 0;
+}
 
 .about .achievements {
     list-style: none;
